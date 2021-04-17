@@ -12,7 +12,7 @@ pip install -r requirements.txt
 pipwin install PyAudio
 
 ```
-Download all folders from drive link given below and place them in the main directory, VQA_MODEL_WEIGHTS.hdf5 and place in models/VQA 
+Download all folders from drive link given below and place them in the main directory, download VQA_MODEL_WEIGHTS.hdf5 and place in models/VQA 
 drive link: https://drive.google.com/drive/folders/1P90Z_VXlViUfncVayeWcZ0kX7igrHOHn?usp=sharing
 
 ## Usage
