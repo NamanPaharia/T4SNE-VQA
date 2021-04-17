@@ -1,4 +1,4 @@
-''' Author: Aaditya Prakash '''
+
 
 import json
 import numpy as np
