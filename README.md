@@ -2,6 +2,10 @@
 
 This is a simple Demo of Visual Question answering, OCR and Speech To Text modules
 
+## Model Architechture
+
+![alt text](https://drive.google.com/file/d/1K1txsdEFYuEfOfaKjxOW4GKYYKjFlCtC/view?usp=sharing)
+
 
 ## Requirements
 
