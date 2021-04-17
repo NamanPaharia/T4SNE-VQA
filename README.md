@@ -2,6 +2,7 @@
 
 This is a simple Demo of Visual Question answering, OCR and Speech To Text modules
 
+
 ## Requirements
 
 For installing requirements run - 
@@ -11,6 +12,8 @@ pip install -r requirements.txt
 
 ```
 Download 2 folders from drive link given below and place them in the main directory
+drive link: https://drive.google.com/drive/folders/1P90Z_VXlViUfncVayeWcZ0kX7igrHOHn?usp=sharing
+
 
 ## Usage
 
@@ -26,5 +29,3 @@ Expected Output :
 00.54 %  mcdonald's
 00.38 %  bus
 00.33 %  train station
-
-drive link: https://drive.google.com/drive/folders/1P90Z_VXlViUfncVayeWcZ0kX7igrHOHn?usp=sharing
