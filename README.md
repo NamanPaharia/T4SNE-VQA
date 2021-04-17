@@ -2,9 +2,17 @@
 
 This is a simple Demo of Visual Question answering, OCR and Speech To Text modules
 
-## Usage
+## Requirements
 
+For installing requirements run - 
+```
+
+pip install -r requirements.txt
+
+```
 Download 2 folders from drive link given below and place them in the main directory
+
+## Usage
 
 > python demo.py -module `(one of vqa, ocr, speech_to_text)` -enable_text_to_speech (default False) -image_file_name `path_to_file` -question "Question to be asked"
 
