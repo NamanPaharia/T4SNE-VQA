@@ -4,7 +4,7 @@ This is a simple Demo of Visual Question answering, OCR and Speech To Text modul
 
 ## Model Architechture
 
-<img src="https://github.com/NamanPaharia/T4SNE-Term-Project/blob/main/model%20architechture.jpg?raw=true">
+<img src="https://drive.google.com/file/d/1K1txsdEFYuEfOfaKjxOW4GKYYKjFlCtC/view?usp=sharing">
 
 
 ## Requirements
