@@ -4,7 +4,7 @@ This is a simple Demo of Visual Question answering, OCR and Speech To Text modul
 
 ## Model Architechture
 
-![](https://drive.google.com/file/d/1K1txsdEFYuEfOfaKjxOW4GKYYKjFlCtC/view?usp=sharing)
+![](model%20architechture.PNG)
 
 
 ## Requirements
@@ -32,9 +32,8 @@ e.g
 
 > python demo.py -module vqa -image_file_name test.jpg -question "Is there a man in the picture?"
 
-Expected Output :
-095.2 %  train
-00.67 %  subway
-00.54 %  mcdonald's
-00.38 %  bus
-00.33 %  train station
+## Use cases
+
+![](navigation.PNG)  
+![](currency%20note%20detection.PNG)  
+![](commonsense%20questions.PNG)  
