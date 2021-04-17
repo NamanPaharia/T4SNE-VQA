@@ -9,6 +9,7 @@ For installing requirements run -
 ```
 
 pip install -r requirements.txt
+pipwin install PyAudio
 
 ```
 Download all folders from drive link given below and place them in the main directory
