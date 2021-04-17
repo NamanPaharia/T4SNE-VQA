@@ -23,7 +23,7 @@ To call your own model pass the argument -model and name of the file. For e.g
 
 To run the demo
 
-> python demo.py -module `<one of vqa, ocr, speech_to_text>` -enable_text_to_speech `<set True to get speech output>`  -image_file_name `path_to_file` -question "Question to be asked"
+> python demo.py -module `<select a module out of vqa, ocr, speech_to_text>` -enable_text_to_speech `<set True to get speech output>`  -image_file_name `path_to_file` -question "Question to be asked"
 
 e.g 
 
