@@ -16,8 +16,11 @@ drive link: https://drive.google.com/drive/folders/1P90Z_VXlViUfncVayeWcZ0kX7igr
 
 
 ## Usage
+To call your own model pass the argument -model and name of the file. For e.g
 
-> python demo.py -module `(one of vqa, ocr, speech_to_text)` -enable_text_to_speech (default False) -image_file_name `path_to_file` -question "Question to be asked"
+`python train -model DeeperLSTM`
+
+> python demo.py -module `<one of vqa, ocr, speech_to_text>` -enable_text_to_speech <default False> -image_file_name `path_to_file` -question "Question to be asked"
 
 e.g 
 
