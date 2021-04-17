@@ -11,7 +11,7 @@ For installing requirements run -
 pip install -r requirements.txt
 
 ```
-Download 2 folders from drive link given below and place them in the main directory
+Download all folders from drive link given below and place them in the main directory
 drive link: https://drive.google.com/drive/folders/1P90Z_VXlViUfncVayeWcZ0kX7igrHOHn?usp=sharing
 
 
