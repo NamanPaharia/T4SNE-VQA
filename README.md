@@ -20,6 +20,8 @@ To call your own model pass the argument -model and name of the file. For e.g
 
 > python train -model DeeperLSTM
 
+To run the demo
+
 > python demo.py -module `<one of vqa, ocr, speech_to_text>` -enable_text_to_speech `<bool>`  -image_file_name `path_to_file` -question "Question to be asked"
 
 e.g 
