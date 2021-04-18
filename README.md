@@ -5,11 +5,16 @@ A Leap Further From Image Captioning
 
 We present a application which will allow its user to extract details of their environment by engaging in a conversation with the smartphone. This application integrates Visual Question Answering with OCR and Speech-to-Text modules to enable its user to interact with their surroundings.
 
+## Process
+Application will give its user an option to click a photo then record a question using phone( e.g. which currency note if this, is there a zebra crossing, how many dogs are in this picture, etc) which will then be transferred to a server(users personal laptop or cloud based services) and the response deduced using this image and question will be send back to the mobile phone and then to the user using a text-to-speech module.
+
+![1](https://user-images.githubusercontent.com/45457551/115137638-de232e80-a044-11eb-9aa0-6f40896e7210.PNG)
+
+
 
 
 ## Model Architechture
 
-![](model%20architechture.PNG)
 
 
 ## Requirements
