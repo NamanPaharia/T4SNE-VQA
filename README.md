@@ -15,6 +15,11 @@ Application will give its user an option to click a photo then record a question
 
 ## Model Architechture
 
+We use a classical model (deeper LSTM Q + norm I) which uses a two layer LSTM to encode the questions and the last hidden layer of VGGNet to encode the images. Both question and image features are transformed to a common space and fused via element-wise multiplication, which is then passed through a fully connected layer followed by a softmax layer to obtain a distribution over answers. The training dataset contains over 760K questions with around 10M answers.
+
+
+![image](https://user-images.githubusercontent.com/45457551/115137685-23dff700-a045-11eb-9f17-f34a3417c797.png)
+
 
 
 ## Requirements
