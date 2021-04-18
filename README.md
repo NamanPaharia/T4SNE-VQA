@@ -1,7 +1,7 @@
 # T4SNE-VQA
 
-##Visual Question Answering
-Visual Question Answering
+## Visual Question Answering
+A Leap Further From Image Captioning
 
 We present a application which will allow its user to extract details of their environment by engaging in a conversation with the smartphone. This application integrates Visual Question Answering with OCR and Speech-to-Text modules to enable its user to interact with their surroundings.
 
