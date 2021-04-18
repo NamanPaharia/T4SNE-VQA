@@ -51,7 +51,7 @@ e.g
 
 | Image                                              | Question                   | Top Answers (left to right) |
 |----------------------------------------------------|----------------------------|-----------------------------|   
-| ![3](https://user-images.githubusercontent.com/45457551/115138422-ae2a5a00-a049-11eb-95b7-a1d6dfb748d1.PNG) | Is there a zebra crossing?      | yes          |
+| <img src="https://user-images.githubusercontent.com/45457551/115138422-ae2a5a00-a049-11eb-95b7-a1d6dfb748d1.PNG" width="500" height="320" /> | Is there a zebra crossing?      | yes          |
 | ![4](https://user-images.githubusercontent.com/45457551/115138466-f9446d00-a049-11eb-9858-93f831dff402.PNG) | What is the value of currency note?     | 100     |
 | ![5](https://user-images.githubusercontent.com/45457551/115138478-0a8d7980-a04a-11eb-9375-40b35e965ca8.PNG) | What kind of bottle is this? | wine                     |
 | ![6](https://user-images.githubusercontent.com/45457551/115138485-12e5b480-a04a-11eb-8af6-b86c03d0e38f.PNG) |How many dogs are there?     | three           |
