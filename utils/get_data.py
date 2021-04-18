@@ -1,9 +1,3 @@
-'''
-Original: https://github.com/JamesChuanggg/vqa-tf/blob/master/model_VQA.py
-Modified: Added Val answers to the return of get_data_test
-Aaditya Prakash
-
-'''
 
 from __future__ import print_function
 import numpy as np
