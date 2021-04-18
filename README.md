@@ -1,6 +1,11 @@
-# T4SNE-Term-Project
+# T4SNE-VQA
 
-This is a simple Demo of Visual Question answering, OCR and Speech To Text modules
+##Visual Question Answering
+Visual Question Answering
+
+We present a application which will allow its user to extract details of their environment by engaging in a conversation with the smartphone. This application integrates Visual Question Answering with OCR and Speech-to-Text modules to enable its user to interact with their surroundings.
+
+
 
 ## Model Architechture
 
